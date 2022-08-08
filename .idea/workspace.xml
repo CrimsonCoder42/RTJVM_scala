@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc2e5f69-eca6-454b-8b2f-bf6f64337924" name="Changes" comment="expressions">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Functions.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Expressions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Expressions.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part1basics/Expressions$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part1basics/Expressions$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part1basics/Expressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part1basics/Expressions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part1basics/Expressions.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part1basics/Expressions.tasty" afterDir="false" />
-    </list>
+    <list default="true" id="dc2e5f69-eca6-454b-8b2f-bf6f64337924" name="Changes" comment="challenges" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659724743026</updated>
-      <workItem from="1659724744248" duration="12121000" />
+      <workItem from="1659724744248" duration="12557000" />
     </task>
     <task id="LOCAL-00001" summary="ready to learn">
       <created>1659724921949</created>
@@ -152,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659957940505</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="challenges">
+      <created>1659971659393</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659971659393</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +173,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ready to learn" />
     <MESSAGE value="expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="expressions" />
+    <MESSAGE value="challenges" />
+    <option name="LAST_COMMIT_MESSAGE" value="challenges" />
   </component>
 </project>
