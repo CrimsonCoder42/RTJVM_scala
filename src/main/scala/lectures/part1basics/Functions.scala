@@ -2,24 +2,27 @@ package lectures.part1basics
 
 object Functions extends App{
 
-  def aFunction(a:String, b:Int): String = {
-    a + " " + b
-
-  }
-
-//  println(aFunction("hello", 3))
+//  def aFunction(a:String, b:Int): String = {
+//    a + " " + b
 //
-//
-//  def aParameterlessFunction(): Int = 42
-//
-//
-//  def aRepeatedFunction(aString: String, n: Int): String = {
-//    if(n==1) aString
-//    else aString + aRepeatedFunction(aString, n-1)
 //  }
 //
-//  println(aRepeatedFunction("hello", 3))
+//  println(aFunction("hello", 3))
+
 //
+//  def aParameterlessFunction(): Unit = 42
+
+
+//  def aRepeatedFunction(n: Int): Int = {
+//    if(n <= 1) 1
+//    else {
+//      val result = n * aRepeatedFunction(n-1)
+//      result
+//    }
+//  }
+
+//  println("this is being returned " + aRepeatedFunction(100))
+
 //  // WHEN YOU NEED TO LOOP YOU USE RECURSION
 //
 //
@@ -56,17 +59,28 @@ object Functions extends App{
 
 
 
-  def aPrime(n: Int): Boolean = {
-    def isPrimeUntil(t: Int): Boolean =
-      if(t <= 1) true
-      else n % t != 0 && isPrimeUntil(t-1)
+//  def aPrime(n: Int): Boolean = {
+//    def isPrimeUntil(t: Int): Boolean =
+//      if(t <= 1) true
+//      else n % t != 0 && isPrimeUntil(t-1)
+//
+//    isPrimeUntil(n/2)
+//
+//  }
+//
+//    println(aPrime(37))
+//    println(aPrime(20))
+//
 
-    isPrimeUntil(n/2)
 
-  }
-
-    println(aPrime(37))
-    println(aPrime(20))
+//def recurseFunc(n:Int, accum:Int): Int = {
+//  if(n <= 1) n
+//    else n - 1
+//  recurseFunc(n-1,n)
+//}
+//
+//
+//  println(recurseFunc(20, 0))
 
 }
 
