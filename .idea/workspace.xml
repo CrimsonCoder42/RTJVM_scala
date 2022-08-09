@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc2e5f69-eca6-454b-8b2f-bf6f64337924" name="Changes" comment="challenges">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/CBNvsCBV.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/DefaultArgs.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Recursion.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/StringOps.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Functions.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part1basics/Functions$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part1basics/Functions$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part1basics/Functions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part1basics/Functions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part1basics/Functions.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part1basics/Functions.tasty" afterDir="false" />
-    </list>
+    <list default="true" id="dc2e5f69-eca6-454b-8b2f-bf6f64337924" name="Changes" comment="OOP" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659724743026</updated>
-      <workItem from="1659724744248" duration="37321000" />
+      <workItem from="1659724744248" duration="37809000" />
     </task>
     <task id="LOCAL-00001" summary="ready to learn">
       <created>1659724921949</created>
@@ -191,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659983642624</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="OOP">
+      <created>1660064550897</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660064550897</updated>
+    </task>
+    <task id="LOCAL-00008" summary="OOP">
+      <created>1660064558692</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660064558692</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +222,7 @@
     <MESSAGE value="ready to learn" />
     <MESSAGE value="expressions" />
     <MESSAGE value="challenges" />
-    <option name="LAST_COMMIT_MESSAGE" value="challenges" />
+    <MESSAGE value="OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP" />
   </component>
 </project>
