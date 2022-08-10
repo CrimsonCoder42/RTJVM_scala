@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc2e5f69-eca6-454b-8b2f-bf6f64337924" name="Changes" comment="OOP basics novel Author">
+    <list default="true" id="dc2e5f69-eca6-454b-8b2f-bf6f64337924" name="Changes" comment="OOP basics challenges">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part2OOP/MethodNotations.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/part2OOP/OOBasics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/part2OOP/OOBasics.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part2OOP/OOBasics$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part2OOP/OOBasics$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part2OOP/OOBasics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part2OOP/OOBasics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part2OOP/OOBasics.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part2OOP/OOBasics.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part2OOP/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part2OOP/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part2OOP/Person.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/lectures/part2OOP/Person.tasty" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +52,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OOBasics">
+  <component name="RunManager" selected="Application.MethodNotations">
     <configuration name="CBNvsCBV" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part1basics.CBNvsCBV" />
       <module name="udemy-scala-beginners" />
@@ -84,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part2OOP.OOBasics" />
+    <configuration name="MethodNotations" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2OOP.MethodNotations" />
       <module name="udemy-scala-beginners" />
       <extension name="coverage">
         <pattern>
@@ -97,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.Recursion" />
+    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2OOP.OOBasics" />
       <module name="udemy-scala-beginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="lectures.part2OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodNotations" />
         <item itemvalue="Application.OOBasics" />
         <item itemvalue="Application.StringOps" />
         <item itemvalue="Application.DefaultArgs" />
         <item itemvalue="Application.CBNvsCBV" />
-        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659724743026</updated>
       <workItem from="1659724744248" duration="39350000" />
-      <workItem from="1660132273091" duration="6272000" />
+      <workItem from="1660132273091" duration="10286000" />
     </task>
     <task id="LOCAL-00001" summary="ready to learn">
       <created>1659724921949</created>
@@ -231,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660136749838</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="OOP basics challenges">
+      <created>1660139276087</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660139276087</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +264,7 @@
     <MESSAGE value="OOP" />
     <MESSAGE value="OOP basics" />
     <MESSAGE value="OOP basics novel Author" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP basics novel Author" />
+    <MESSAGE value="OOP basics challenges" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP basics challenges" />
   </component>
 </project>
