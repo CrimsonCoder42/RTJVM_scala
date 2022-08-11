@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc2e5f69-eca6-454b-8b2f-bf6f64337924" name="Changes" comment="Objects">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part2OOP/Objects.scala" afterDir="false" />
+    <list default="true" id="dc2e5f69-eca6-454b-8b2f-bf6f64337924" name="Changes" comment="instance-level functionality">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part2OOP/AbstractDataTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part2OOP/InheritanceAndTraits.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +53,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Objects">
-    <configuration name="DefaultArgs" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.DefaultArgs" />
+  <component name="RunManager" selected="Application.InheritanceAndTraits">
+    <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2OOP.InheritanceAndTraits" />
       <module name="udemy-scala-beginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="lectures.part2OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritanceAndTraits" />
         <item itemvalue="Application.Objects" />
         <item itemvalue="Application.MethodNotations" />
         <item itemvalue="Application.OOBasics" />
         <item itemvalue="Application.StringOps" />
-        <item itemvalue="Application.DefaultArgs" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659724743026</updated>
       <workItem from="1659724744248" duration="39350000" />
-      <workItem from="1660132273091" duration="14527000" />
+      <workItem from="1660132273091" duration="17471000" />
     </task>
     <task id="LOCAL-00001" summary="ready to learn">
       <created>1659724921949</created>
@@ -254,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660216285388</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="instance-level functionality">
+      <created>1660218763788</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1660218763788</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +295,7 @@
     <MESSAGE value="OOP basics novel Author" />
     <MESSAGE value="OOP basics challenges" />
     <MESSAGE value="Objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Objects" />
+    <MESSAGE value="instance-level functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="instance-level functionality" />
   </component>
 </project>
